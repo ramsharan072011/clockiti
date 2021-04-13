@@ -11,7 +11,7 @@
 ### Part -1 : Clock Introduction, Alarm set and turn off the alarm.
 [![Demo Video - Part -1](https://github.com/ramsharan072011/clockiti/blob/main/picsAndVideos/ClockitiFront.png)](https://www.youtube.com/watch?v=XHDYIi8Yc5k)
 ### Part -2 : The fun video, where the lock sprays water.
-[![Demo Video - Part -2](https://github.com/ramsharan072011/clockiti/blob/main/picsAndVideos/ClockitiFront.png)](https://www.youtube.com/watch?v=QBNmT_KDQMU)
+[![Demo Video - Part -2](https://github.com/ramsharan072011/clockiti/blob/main/picsAndVideos/MeWithMyClock.png)](https://www.youtube.com/watch?v=QBNmT_KDQMU)
 
 ## License
 
